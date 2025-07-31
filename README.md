@@ -1,5 +1,5 @@
 <h1>
-  <img src="img/github-stats.gif" width="50" /> 
+  <img src="img/github-stats.gif" width="100" /> 
   GitHub Stats:
 <h1>
 
