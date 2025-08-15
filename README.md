@@ -22,15 +22,6 @@
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PutraDae?ext=heatmap)
 
-
-<h1>
-  <img src="img/github-trophies.gif" width="50" /> 
-  GitHub Trophies:
-<h1>
-  
-![](https://github-profile-trophy.vercel.app/?username=iiohanestj09&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
-
 <h1>
   <img src="img/top-contributed.gif" width="40" /> 
   Top Contributed Repo:
