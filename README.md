@@ -20,7 +20,7 @@
   Leetcode Stats:
 <h1>
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/PutraDae05?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/odGHLOqstz?ext=heatmap)
 
 
 <h1>
